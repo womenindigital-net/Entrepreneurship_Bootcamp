@@ -1,0 +1,230 @@
+@media all and (max-width: 1199px) {
+    /*Desing Check 992px*/
+    .section_text p {
+     font-size: 12px;
+     letter-spacing: 0;
+     line-height: 20px;
+ }
+ .section_text h1 {
+     font-size: 20px;
+ }
+ #countdown li span {
+     display: block;
+     font-size: 2.5rem;
+ }
+ .button a {
+     font-size: 18px;
+ }
+ .box_all_content h1 {
+     font-size: 18px;
+ }
+ .box_all_content p {
+     font-size: 14px;
+ }
+ .icon {
+     font-size: 20px;
+   }
+   .part p {
+     font-size: 14px;
+     line-height: 20px;
+ }
+   .camp_text h1 {
+     color: #FFF;
+     font-size: 18px;
+     font-weight: bold;
+     padding-bottom: 12px;
+ }
+
+ .after_bootcamp_text h1 {
+
+     font-size: 20px;
+ }
+ .footer-contact p {
+     font-size: 14px;
+ }
+ .footer-links ul li {
+     font-size: 14px;
+ }
+ .footer-links h4 {
+     font-size: 16px;
+ }
+ .footer-newsletter h4 {
+     font-size: 17px;
+ }
+
+
+}
+
+
+@media all and (max-width: 991px) {
+
+ /*Desing Check 768px*/
+
+ .d-flex.flex-column.flex-md-row.text-center.justify-content-md-between {
+     font-size: 12px;
+ }
+    
+ .c_section {
+	padding: 50px 0px;
+}
+.heading h1 {
+	font-size: 18px;
+}
+
+
+}
+
+@media all and (max-width: 767px) {
+     /*Desing Check 576px*/
+    
+
+
+
+
+}
+
+@media all and (max-width: 575px) {
+     /*Desing Check 414px*/
+
+
+
+     .nav_menu {
+          top: 10px;
+      }
+      .section_text {
+          padding: 24px;
+      }
+      .section_text {
+          padding: 24px;
+      }
+      .button a {
+          font-size: 16px;
+      }
+      .c_section {
+          background-image: linear-gradient(to right, #143C6F ,#2072A5, #143C6F);
+          padding: 34px 0px;
+      }
+      .box_all_content i {
+          font-size: 24px;
+      }
+      .single_item_box {
+          padding: 0px;
+      }
+      .box_all_content h1 {
+          font-size: 14px;
+          padding-top: 10px;
+          padding-bottom: 10px;
+      }
+      .box_all_content p {
+          font-size: 12px;
+          padding: 4px;
+      }
+      .after_bootcamp_text h1 {
+          font-size: 14px;
+      }
+      .enrol_text h1 {
+          font-size: 28px;
+          padding-bottom: 0px;
+      }
+      .enrol_text p {
+          font-size: 20px;
+          padding-bottom: 3px;
+      }
+      .enrol_text {
+          padding-top: 50px;
+          padding-bottom: 50px;
+      }
+      .footer-contact p {
+          font-size: 12px;
+      }
+      .footer-links h4 {
+          font-size: 14px;
+      }
+      .footer-links ul li a {
+          font-size: 12px;
+      }
+      .p_70 {
+          padding-top: 20px;
+          padding-bottom: 20px;
+      }
+      .footer-newsletter h4 {
+          font-size: 15px;
+          padding-top: 15px;
+      }
+      .collaps_area {
+          padding-top: 50px;
+          padding-bottom: 50px;
+          text-align: center;
+      }
+      .accordion-button {
+          color: red;
+          font-size: 15px;
+          font-weight: bold;
+      }
+      #countdown {
+          padding: 5px;
+     }
+     .col-lg-3.col-md-6.col-sm-6.footer-contact {
+          text-align: center;
+          padding-bottom: 20px;
+     }
+
+
+}
+
+
+
+@media all and (max-width: 413px) {
+     /*Desing Check 375px*/
+     .heading h1 {
+        font-size: 18px;
+     }
+
+     .section_text h1 {
+          font-size: 18px;
+      }
+      .section_text p {
+          font-size: 12px;
+          line-height: 18px;
+      }
+      .button a {
+          font-size: 14px;
+     }
+      .collaps_area {
+          padding-top: 50px;
+          padding-bottom: 50px;
+          text-align: center;
+      }
+      .accordion-button {
+          color: red;
+          font-size: 15px;
+          font-weight: bold;
+      }
+      .camp_text h1 {
+          font-size: 16px;
+      }
+      .part p {
+          font-size: 12px;
+          line-height: 20px;
+      }
+      #countdown {
+          padding: 5px;
+     }
+     .col-lg-3.col-md-6.col-sm-6.footer-contact {
+          text-align: center;
+          padding-bottom: 20px;
+     }
+     .social-links.text-center.text-md-right.pt-3 {
+          
+          display: flex;
+          justify-content: center;
+     }
+     .py-4 {
+          padding: 5px;
+     }
+     .single_item_box {
+        min-height: 249px;
+    }
+     
+
+}
